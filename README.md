@@ -55,7 +55,7 @@ A simple app to use all three models:
 - Get predicted delay days
 - Get estimated cost of delay
 
-Deployment Guide Coming Soon...
+[Click on the link to use the app](https://car-shipment-delay-prediction-8gxekgz52yqxspeqtu8svv.streamlit.app/)
 
 ---
 
